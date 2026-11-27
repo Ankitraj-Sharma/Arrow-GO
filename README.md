@@ -181,7 +181,7 @@ Here is the chronological engineering progression followed to build ArrowGo from
 
 ---
 
-## 🌐 Supabase Cloud Configuration
+## 🌐 Supabase Cloud Configurations
 
 - **Project URL**: `https://rpyckuskyuahthjlrtky.supabase.co`
 - **Target Table**: `public.arrow_profiles`
