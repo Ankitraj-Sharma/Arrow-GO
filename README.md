@@ -176,8 +176,8 @@ Here is the chronological engineering progression followed to build ArrowGo from
 
 ### Phase 6: Automated CI/CD & Global Live Deployment
 1. **GitHub Pages Deployment**: Enabled zero-cost static hosting via both `gh-pages` branch and `.github/workflows/deploy.yml`.
-2. **Containerization**: Authored a production multi-stage `Dockerfile` targeting `mcr.microsoft.com/dotnet/aspnet:9.0` for container cloud hosting.
-3. **Automated Packaging**: Configured automated archival generating updated distribution ZIP packages directly on the user's Desktop and Downloads folders.
+2. **Containerization**: Authored a production multi-stage `Dockerfile` targeting `mcr.microsoft.com/dotnet/aspnet:9.0` for container cloud hosting
+3. **Automated Packaging**: Configured automated archival generating updated distribution ZIP packages directly on the user's Desktop and Downloads folders
 
 ---
 
